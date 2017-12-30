@@ -18,7 +18,7 @@ EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 THEME = 'pelican-themes/blueidea'
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = []
+PLUGINS = ['pdf']
 MENUITEMS = (('Home', 'http://zwned.info'),('Resume', 'http://zwned.info/resume'),)
 
 DISPLAY_CATEGORIES_ON_MENU = False

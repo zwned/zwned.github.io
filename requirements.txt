@@ -1,4 +1,5 @@
 pelican
+pelican-gist
 markdown
 ghp-import
 xhtml2pdf
