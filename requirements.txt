@@ -1,0 +1,4 @@
+pelican
+markdown
+ghp-import
+xhtml2pdf
