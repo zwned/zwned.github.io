@@ -3,7 +3,7 @@ python:
 - '3.6'
 branches:
   only:
-  - master
+  - pelican
 install:
 - pip install -r requirements.txt
 script:
