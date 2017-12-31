@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>zwned.info - misc</title><link href="http://www.zwned.info/" rel="alternate"></link><link href="http://www.zwned.info/feeds/misc.atom.xml" rel="self"></link><id>http://www.zwned.info/</id><updated>2017-12-29T12:55:00-05:00</updated><entry><title>Phoenix (Or I live I die I live again)</title><link href="http://www.zwned.info/blog/2017/12/phoenix-or-i-live-i-die-i-live-again/" rel="alternate"></link><published>2017-12-29T12:55:00-05:00</published><updated>2017-12-29T12:55:00-05:00</updated><author><name>Joshua Gauthier</name></author><id>tag:www.zwned.info,2017-12-29:/blog/2017/12/phoenix-or-i-live-i-die-i-live-again/</id><summary type="html">&lt;p&gt;I live I die I live again&lt;/p&gt;</summary><content type="html">&lt;p&gt;I really enjoy learning about people's workflows. It gives me insight into how they do what they do, rather than just telling me what they did. I hope to capture some of that here - detailing a bit of what I'm working on - the success and the failures (more often than not the failures), but also how I go about things. &lt;/p&gt;
+&lt;p&gt;This setup isn't anything special but I like its simplicity and portability. I'm using &lt;a href="https://github.com/getpelican/pelican"&gt;Pelican&lt;/a&gt; to generate a static site from markdown content. I'm using &lt;a href="https://pages.github.com/"&gt;GitHub Pages&lt;/a&gt; for hosting as its free and I'm cheap. The interesting bit is I'm using &lt;a href="https://travis-ci.org/"&gt;Travis-CI&lt;/a&gt; to actually push the generated content because lets face it ... I'm rather lazy - may as well let him do the work for me 😄 .&lt;/p&gt;
+&lt;p&gt;Here's how I got everything setup:&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;p&gt;...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;z &lt;/li&gt;
+&lt;/ul&gt;</content><category term="setup"></category></entry></feed>
